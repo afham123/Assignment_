@@ -17,4 +17,4 @@ There are three classes in the dataset, each with 5,000 images, being:
 * Lung adenocarcinoma
 * Lung squamous cell carcinoma
 
-In this project, We will be using the deep learning neural network architecture to implement for lung cancer image classfication.
+In this project, We will be using the deep learning neural network architecture to implement lung cancer image classification.
